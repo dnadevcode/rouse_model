@@ -1,0 +1,8 @@
+10 | Nb | number beads
+1.33*10^(-8) | zeta |  % Friction coefficient of a bead, Ns/m
+2.88*10^(-6) | ks | % Spring constant N/m
+0.5400e-06 |Xs | % equilibrium rest length of the spring m
+4.11*10^(-21) | kT | % kT
+0.001 | h | % timestep
+200 | numFrames | numframes
+0.04 | frameLen |    % time difference (s) between two frames
